@@ -130,6 +130,10 @@ Advanced :
 
 <a href="https://github.com/dfinity/invoice-canister" target="_blank"> **The invoice canister** </a> : processing payments on the IC. 💰
 
-
+# Daily guide
+## Day 4
+- Custom type
+- Linked list
+- Switch / Case
 
 
